@@ -1,0 +1,31 @@
+{
+  "name": "changecase",
+  "description": "Convert a string between camelCase, PascalCase, Title Case, snake_case and more.",
+  "main": "changecase.js",
+  "authors": [
+    "jamrizzi"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "camel",
+    "pascal",
+    "title",
+    "case",
+    "lower",
+    "upper",
+    "param",
+    "dot",
+    "path",
+    "constant",
+    "cases",
+    "check"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

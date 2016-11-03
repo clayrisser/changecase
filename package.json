@@ -1,0 +1,36 @@
+{
+  "name": "changecase",
+  "version": "1.0.0",
+  "description": "Convert a string between camelCase, PascalCase, Title Case, snake_case and more.",
+  "main": "changecase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jamrizzi/changecase.git"
+  },
+  "keywords": [
+    "camel",
+    "pascal",
+    "title",
+    "case",
+    "lower",
+    "upper",
+    "param",
+    "dot",
+    "path",
+    "constant",
+    "cases",
+    "check"
+  ],
+  "author": "jamrizzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamrizzi/changecase/issues"
+  },
+  "homepage": "https://github.com/jamrizzi/changecase#readme",
+  "dependencies": {
+    "change-case": "^3.0.0"
+  }
+}
